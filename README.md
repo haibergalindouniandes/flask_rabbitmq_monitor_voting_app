@@ -1,0 +1,1 @@
+# flask_rabbitmq_monitor_voting_app
